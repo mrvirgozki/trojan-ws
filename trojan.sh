@@ -4,7 +4,7 @@ set -euo pipefail
 # ✅ Lahat nakapangalan na sa virgozki
 PASSWORD="virgozki"
 REGION="us-central1"
-SERVICE_NAME="virgozki"
+SERVICE_NAME="mrvirgozki"
 WSPATH="/virgozki"
 DOMAIN="www.google.com"
 
